@@ -1,0 +1,1 @@
+var json_Airport_5 = {"type":"FeatureCollection","name":"Airport_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"AP_NAME":"JOMSOM","ADDRESS":"Jomsom"},"geometry":{"type":"Point","coordinates":[83.724579139535834,28.780889885219796]}}]}
